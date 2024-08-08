@@ -16,7 +16,7 @@ function aCounter(word) {
     index++;
   }
   return count;
-};
+}
 
 // console.log(aCounter("apple"));      // => 1
 // console.log(aCounter("appleapple")); // => 2
