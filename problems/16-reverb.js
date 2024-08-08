@@ -7,7 +7,7 @@ not a string, say someone passes in a number as an argument, then return null.
 Vowels are the letters "a", "e", "i", "o", "u".
 */
 
-// Your code here 
+// Your code here
 
 // console.log(reverb('running')); // runninging
 // console.log(reverb('FAMILY'));  // FAMILYILY

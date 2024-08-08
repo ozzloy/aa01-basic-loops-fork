@@ -17,7 +17,7 @@ So the two rules for our version of Pig Latin are:
 */
 
 function pigLatinWord(word) {
-    // Your code here 
+  // Your code here
 }
 
 // console.log(pigLatinWord("apple")); //=> "appleyay"

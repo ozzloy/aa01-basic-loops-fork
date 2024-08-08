@@ -6,7 +6,7 @@ otherwise.
 Vowels are the letters "a", "e", "i", "o", "u".
 */
 
-// Your code here 
+// Your code here
 
 // console.log(hasVowel('dog'));          // => true
 // console.log(hasVowel('conventional')); // => true

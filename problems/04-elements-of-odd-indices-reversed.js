@@ -5,7 +5,7 @@ string in reverse order.
 */
 
 function elementsOfOddIndicesReversed(str) {
-  // Your code here 
+  // Your code here
 }
 
 // console.log(elementsOfOddIndicesReversed('academy')); // 'mdc'

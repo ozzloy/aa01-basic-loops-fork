@@ -5,7 +5,7 @@ character consecutively. If the value passed into the function is not a string,
 return null.
 */
 
-// Your code here 
+// Your code here
 
 // console.log(hasDoubleLetter('deer')); // true
 // console.log(hasDoubleLetter('boot camp')); // true

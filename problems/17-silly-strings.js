@@ -6,7 +6,7 @@ should return a new word where every vowel of the original word is followed by
 Vowels are the letters "a", "e", "i", "o", "u".
 */
 
-// Your code here 
+// Your code here
 
 // console.log(sillyString('stop'));       // stobop
 // console.log(sillyString('that'));       // thabat

@@ -6,7 +6,7 @@ high number, inclusive. Inclusive means that the range includes the low and
 high numbers.
 */
 
-// Your code here 
+// Your code here
 
 // logBetween(-1, 2);
 /* prints out:

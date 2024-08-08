@@ -4,7 +4,7 @@ should return a boolean indicating whether or not the the string contains three
 of the same character consecutively.
 */
 
-// Your code here 
+// Your code here
 
 // console.log(tripletTrue('caaabb'));        // true
 // console.log(tripletTrue('terrrrrible'));   // true

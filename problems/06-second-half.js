@@ -5,7 +5,7 @@ half of characters in the string parameter.
 */
 
 function secondHalf(str) {
-  // Your code here 
+  // Your code here
 }
 
 // console.log(secondHalf('academy')); // 'emy'

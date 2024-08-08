@@ -5,7 +5,7 @@ where every vowel becomes the next vowel in the alphabet.
 Vowels are the letters "a", "e", "i", "o", "u".
 */
 
-// Your code here 
+// Your code here
 
 // console.log(vowelCipher("bootcamp")); // "buutcemp"
 // console.log(vowelCipher("paper cup")); // "pepir cap"

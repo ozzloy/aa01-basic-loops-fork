@@ -5,7 +5,7 @@ should return a new string where all of its vowels are removed.
 Vowels are the letters "a", "e", "i", "o", "u".
 */
 
-// Your code here 
+// Your code here
 
 // console.log(abbreviate('wonderful')); // 'wndrfl'
 // console.log(abbreviate('mystery')); // 'mystry'

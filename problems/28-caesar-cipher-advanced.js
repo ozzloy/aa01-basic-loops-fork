@@ -7,7 +7,7 @@ Feel free to use this variable: let alphabet = "abcdefghijklmnopqrstuvwxyz";
 */
 
 function caesarCipher(string, num) {
-    // Your code here 
+  // Your code here
 }
 
 // console.log(caesarCipher("apple", 1)); // "bqqmf"

@@ -7,7 +7,7 @@ Each character must be a digit from 0-9 or an alphabetic character from A-F.
 All alphabetic characters may be uppercase or lowercase.
 */
 
-// Your code here 
+// Your code here
 
 // console.log(validHexCode("#123456"));  // true
 // console.log(validHexCode("!123456"));  // false

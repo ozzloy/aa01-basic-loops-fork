@@ -5,7 +5,7 @@ Fibonacci sequence are 1; to generate subsequent numbers of the Fibonacci
 sequence, we take the sum of the previous two numbers of the sequence.
 */
 
-// Your code here 
+// Your code here
 
 // console.log(fib(1));    // 1
 // console.log(fib(2));    // 1

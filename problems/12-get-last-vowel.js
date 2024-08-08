@@ -6,7 +6,7 @@ contain a vowel, return null.
 Vowels are the letters "a", "e", "i", "o", "u".
 */
 
-// Your code here 
+// Your code here
 
 // console.log(getLastVowel('battery'));      // 'e'
 // console.log(getLastVowel('tunnel'));       // 'e'
